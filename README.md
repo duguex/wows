@@ -5,7 +5,7 @@ class stage
 init screenshot
 
 stage 1
-![stage_1]("stage_0.png")
+![stage_1](stage_0.png)
 
 
 
